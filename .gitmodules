@@ -16,9 +16,6 @@
 [submodule "WebProgramming"]
 	path = WebProgramming
 	url = https://github.com/MikkelBKristensen/WebProgrammering.git
-[submodule "StreamingAppGui"]
-	path = StreamingAppGui
-	url = https://github.com/MikkelBKristensen/StreamingAppGUI.git
 [submodule "StreamingAppGUI"]
 	path = StreamingAppGUI
 	url = https://github.com/MikkelBKristensen/StreamingAppGUI.git
