@@ -4,3 +4,21 @@
 [submodule "DevOpsNotes"]
 	path = DevOpsNotes
 	url = https://github.com/MikkelBKristensen/lecture_notes.git
+[submodule "ScrabbleProject"]
+	path = ScrabbleProject
+	url = https://github.com/MikkelBKristensen/ScrabbleProject.git
+[submodule "FunctionalProgramming"]
+	path = FunctionalProgramming
+	url = https://github.com/MikkelBKristensen/FunctionalProgramming.git
+[submodule "DistributedSystems"]
+	path = DistributedSystems
+	url = https://github.com/MikkelBKristensen/DSHandins.git
+[submodule "WebProgramming"]
+	path = WebProgramming
+	url = https://github.com/MikkelBKristensen/WebProgrammering.git
+[submodule "AlgorithmsAndDatastructures"]
+	path = AlgorithmsAndDatastructures
+	url = https://github.com/MikkelBKristensen/AlgData.git
+[submodule "StreamingAppGui"]
+	path = StreamingAppGui
+	url = https://github.com/MikkelBKristensen/StreamingAppGUI.git
