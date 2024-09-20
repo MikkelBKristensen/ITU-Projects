@@ -1,3 +1,6 @@
 [submodule "NetflixGoHome"]
 	path = NetflixGoHome
 	url = https://github.com/MikkelBKristensen/NetflixGoHome.git
+[submodule "DevOpsNotes"]
+	path = DevOpsNotes
+	url = https://github.com/MikkelBKristensen/lecture_notes.git
