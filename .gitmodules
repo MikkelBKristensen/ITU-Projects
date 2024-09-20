@@ -1,0 +1,3 @@
+[submodule "NetflixGoHome"]
+	path = NetflixGoHome
+	url = https://github.com/MikkelBKristensen/NetflixGoHome.git
