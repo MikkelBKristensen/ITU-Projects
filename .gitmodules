@@ -19,3 +19,6 @@
 [submodule "StreamingAppGUI"]
 	path = StreamingAppGUI
 	url = https://github.com/MikkelBKristensen/StreamingAppGUI.git
+[submodule "AlgorithmsAndDatastrucures"]
+	path = AlgorithmsAndDatastrucures
+	url = https://github.com/MikkelBKristensen/AlgData.git
