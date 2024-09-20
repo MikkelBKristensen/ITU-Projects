@@ -16,9 +16,6 @@
 [submodule "WebProgramming"]
 	path = WebProgramming
 	url = https://github.com/MikkelBKristensen/WebProgrammering.git
-[submodule "AlgorithmsAndDatastructures"]
-	path = AlgorithmsAndDatastructures
-	url = https://github.com/MikkelBKristensen/AlgData.git
 [submodule "StreamingAppGui"]
 	path = StreamingAppGui
 	url = https://github.com/MikkelBKristensen/StreamingAppGUI.git
